@@ -1,0 +1,10 @@
+# earthquake_data_changed.csv
+File contains information about: age, gender and an answer to a question "Do you think the "Big One" will occur in your lifetime?".
+
+Variables: 
+- Age - str, information about the age range of the interviewed
+- Gender - str, information about the gender of the interviewed
+- Big One - str, answer to a question: "Do you think the "Big One" will occur in your lifetime?" 
+
+# earthquake_data.csv
+This file does not vary from the original one located in /Original Data folder.
